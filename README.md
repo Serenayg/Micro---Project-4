@@ -1,11 +1,17 @@
 This project builds on the work completed in previous micro-projects:
-	•	Micro-Project 1: Data preprocessing (cleaning, handling missing values, feature transformation)
-	•	Micro-Project 2: Data visualization (exploring distributions, correlations, and patterns)
-	•	Micro-Project 3: Implementation of several classical ML models (Logistic Regression, SVM, Decision Tree, Random Forest, KNN).
+
+Micro-Project 1: Data preprocessing (cleaning, handling missing values, feature transformation)
+
+Micro-Project 2: Data visualization (exploring distributions, correlations, and patterns)
+
+Micro-Project 3: Implementation of several classical ML models (Logistic Regression, SVM, Decision Tree, Random Forest, KNN).
+
 
 Micro-Project 4 extends this pipeline by:
-	1.	Introducing Deep Learning models (Baseline MLP, Enhanced MLP, LSTM).
-	2.	Adding Gradient Boosting and Naive Bayes, which were not included in Micro-Project 3 but later tested and delivered strong results.
+
+1.	Introducing Deep Learning models (Baseline MLP, Enhanced MLP, LSTM).
+
+2.	Adding Gradient Boosting and Naive Bayes, which were not included in Micro-Project 3 but later tested and delivered strong results.
 
  Results Summary
 	•	Gradient Boosting was the top performer (Accuracy = 0.91, F1 = 0.92, ROC AUC = 0.95).
